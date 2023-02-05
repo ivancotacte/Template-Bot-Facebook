@@ -1,5 +1,7 @@
 # TEMPLATE FACEBOOK BOT NODEJS
 
+<img src="/assets/image.gif"></img>
+
 **Table of contents**
 - [English](#English)
   - [Geting started](#Geting-started)
@@ -8,12 +10,12 @@
 
 # English
 ## Geting started
-> *Warning*
+> *warning*
 >
 > Guide is in editing stage
 
 # Indonesia
 ## Mulai
-> *Warning*
+> *warning*
 >
 > Guide dalam tahap pengeditan
