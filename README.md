@@ -10,12 +10,12 @@
 
 # English
 ## Geting started
-> *warning*
+> **Warning**
 >
 > Guide is in editing stage
 
 # Indonesia
 ## Mulai
-> *warning*
+> **Warning**
 >
 > Guide dalam tahap pengeditan
