@@ -1,0 +1,12 @@
+{
+  "name": "facebook-bot",
+  "version": "0.0.1",
+  "description": "Facebook bot use nodejs",
+  "main": "index.mjs",
+  "author": "Axuint",
+  "license": "MIT",
+  "dependencies": {
+    "fb-chat-api": "ntkhang03/fb-chat-api"
+  },
+  "type": "module"
+}
